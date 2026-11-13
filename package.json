@@ -4,6 +4,7 @@
   "main": "expo-router/entry",
   "dependencies": {
     "@expo/ui": "~58.0.28",
+    "@react-navigation/native": "^7.5.1",
     "@supabase/supabase-js": "^2.119.0",
     "expo": "~58.0.25",
     "expo-constants": "~58.0.16",
